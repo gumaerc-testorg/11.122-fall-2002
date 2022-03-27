@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 046be9ba-2b64-d0bd-9af7-fb0204633132
 resourcetype: Document
 title: fa01projectpresentation02.pdf
 uid: 901f173a-bcb1-9aed-8264-e623f98e0ef0

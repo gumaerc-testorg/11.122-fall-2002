@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 046be9ba-2b64-d0bd-9af7-fb0204633132
 resourcetype: Document
 title: fa01projectpaper02.pdf
 uid: ad76e1c6-f1fd-84b9-9d02-ef193716916f
