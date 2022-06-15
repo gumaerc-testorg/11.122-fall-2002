@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Project: Green Chemistry and MIT, [by] Mark Steyer'
-file: /media/courses/11-122-environment-and-society-fall-2002/ad76e1c6f1fd84b99d02ef193716916f_fa01projectpaper02.pdf
+file: /courses/11-122-environment-and-society-fall-2002/ad76e1c6f1fd84b99d02ef193716916f_fa01projectpaper02.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: fa01projectpaper02.pdf
 uid: ad76e1c6-f1fd-84b9-9d02-ef193716916f
 ---
+Project: Green Chemistry and MIT, [by] Mark Steyer
+
