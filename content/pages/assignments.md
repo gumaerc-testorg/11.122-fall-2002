@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on course work and expectations.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ba5b4805-07bf-1428-6fbe-226041e827db
 ---
