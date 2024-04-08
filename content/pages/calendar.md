@@ -422,7 +422,7 @@ O'Meara, Molly, "Harnessing Information Technologies for the Environment," Chapt
 
 Fung, Archon, and Dara O'Rourke, "Reinventing Environmental Regulation from the Grassroots Up: Explaining and Expanding the Success of the Toxics Release Inventory," _Environmental Management_, 2000, vol. 25, no. 2, pp.:115-127. (R)
 
-Visit [http://www.scorecard.org](http://www.scorecard.org/).
+Visit {{% resource_link "a0ece945-5545-4a87-a4a8-858d739bc923" "http://www.scorecard.org" %}}.
 
 
 {{< tdclose >}}
