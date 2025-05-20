@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Project: Green Chemistry at MIT, [by] Marc Steyer'
-file: /ol-ocw-studio-app/courses/11-122-environment-and-society-fall-2002/901f173abcb19aed8264e623f98e0ef0_fa01projectpresentation02.pdf
+file: /courses/11-122-environment-and-society-fall-2002/901f173abcb19aed8264e623f98e0ef0_fa01projectpresentation02.pdf
 file_size: 320130
 file_type: application/pdf
 learning_resource_types:
